@@ -1,0 +1,1 @@
+This program demonstrates and explores inheritance and interface principles in Java.
